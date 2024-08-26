@@ -1,0 +1,16 @@
+{
+  "name": "giga-deploy-of-heck",
+  "version": "1.0.0",
+  "description": "Learning stufff",
+  "keywords": [],
+  "author": "DuduBTW",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duduBTW/giga-deploy-of-heck"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "license": "MIT"
+}
