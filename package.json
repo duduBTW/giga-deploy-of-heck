@@ -12,5 +12,14 @@
     "dist"
   ],
   "type": "module",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write .",
+    "build": "tsc",
+    "ci": "npm run build"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
 }
